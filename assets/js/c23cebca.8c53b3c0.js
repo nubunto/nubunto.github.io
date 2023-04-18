@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[737],{5183:i=>{i.exports=JSON.parse('{"title":"Banking in Brazil","description":"Banking concepts in Brazil","slug":"/category/banking-in-brazil","permalink":"/category/banking-in-brazil","navigation":{"next":{"title":"Banco Central","permalink":"/brazil-banking/bacen"}}}')}}]);
