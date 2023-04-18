@@ -21,6 +21,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'nubunto', // Usually your GitHub org/user name.
   projectName: 'nubunto.github.io', // Usually your repo name.
+  deploymentBranch: 'main',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -66,15 +67,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
             title: 'Community',
             items: [
               {
@@ -92,15 +84,11 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/nubunto/nubunto.github.io',
               },
             ],
           },
