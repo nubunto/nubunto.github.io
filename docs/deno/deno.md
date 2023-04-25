@@ -13,7 +13,7 @@ Deno is the middle ground. I feel working with TypeScript is just a lot better:
 * Supports ES modules out of the box
 * Supports TypeScript out of the box
 * Supports NPM packages (somewhat, see [this issue](https://github.com/denoland/deno/issues/18836))
-* Supports Edge deployment, on tools like [Vercel](/vercel/), [Netlify](/netlify) edge functions
+* Supports Edge deployment, on tools like [Vercel](/software/vercel/), [Netlify](/software/netlify) edge functions
 * Has it's own edge network called [Deno Deploy](https://deno.land/deploy)
 
 I didn't use JavaScript yet with Deno, which actually speaks volumes.
