@@ -14,9 +14,12 @@
 .env.development.local
 .env.test.local
 .env.production.local
-docs/private
-# !docs/private
-# !docs/private/private.md
+
+# everything inside private
+docs/private/*
+
+# except private.md
+!docs/private/private.md
 
 npm-debug.log*
 yarn-debug.log*
