@@ -22,6 +22,8 @@ Deno supports compilation, which is actually huge for command line applications.
 
 I also started developing [NGBS](/projects/ngbs), my own version of command line tooling using Deno. I'll keep an eye out on how to explore it more.
 
+I wish everyone used this and that Deno was the default way of running JavaScript on the server. I guess time will help here...
+
 ## Links
 
 * [Cliffy](https://cliffy.io/): command line framework
